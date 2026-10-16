@@ -58,7 +58,7 @@ Equipo: Gus (diseño, curso de permacultura, plataforma), Martín (arquitecto, l
 
 ## Privacidad y repositorio
 
-- Este vault va a ser un **repo privado en la organización de NetxState en GitHub**, y **todavía no se comparte** con el resto del equipo. No asumas que otros lo leen.
+- Este vault es un **repo privado en GitHub: `netxgen-2050/NS_permacultura`**, y **todavía no se comparte** con el resto del equipo. No asumas que otros lo leen.
 - `private/` está ignorada por git (transcripciones, presentaciones de terceros). **Nunca cites contenido personal o interpersonal de ahí** (cambios en el equipo, salud, familia, opiniones sobre personas). Extraé solo contenido de tierra, agua, diseño y decisiones. Citá como *"Llamada privada, Masterplanning Preliminar, 2026-10-15"*.
 - `../NS_Tokenomics/`, `../NS_platform/` y `../lighthouse-platform/` son carpetas hermanas en la máquina de Gus; citalas, no asumas que otros lectores las tienen.
 

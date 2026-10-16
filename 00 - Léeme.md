@@ -67,7 +67,7 @@ Apuntá cualquier asistente de IA (Claude Code, Cursor, ChatGPT…) primero a `A
 ## 4. Repositorio y colaboración
 
 - Esta carpeta es un **vault de Obsidian** (abrí la carpeta como vault; los `[[links]]` funcionan) y un **repositorio git local**.
-- Va a ser un **repo privado en la organización de NetxState en GitHub**. **Por ahora no se comparte** con el resto del equipo; Gus decide cuándo.
+- Es un **repo privado en GitHub: `netxgen-2050/NS_permacultura`**. **Por ahora no se comparte** con el resto del equipo; Gus decide cuándo.
 - `private/` está ignorada por git.
 
 ## 5. Vaults hermanos
