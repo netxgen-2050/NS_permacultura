@@ -1,0 +1,11 @@
+# Private / sensitive — never push
+private/
+# Large or third-party files
+sources/*.pptx
+sources/*.key
+sources/*.pdf
+*.xlsx
+# OS / editor
+.DS_Store
+.obsidian/workspace*
+.obsidian/cache
