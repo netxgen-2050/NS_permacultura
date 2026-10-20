@@ -1,17 +1,19 @@
 ---
 title: Revisión regenerativa del masterplan preliminar de Martín (2026-10-15)
 created: 2026-10-15
-status: v0.1 — basada solo en la llamada; a actualizar cuando lleguen la presentación y los archivos CAD/GIS
+status: v0.2 — llamada + presentación de Martín (PDF, 2026-10-20, §3); faltan los archivos CAD/GIS
 reviewed: Martín Vaccarezza, "Masterplanning Preliminar", 2026-10-15
 ---
 
 # 07 · Revisión del masterplan 2026-10-15
 
-Volver a [[00 - Léeme]] · Método: [[10 - Guía de revisión regenerativa]] · Notas de la llamada: [[14 - Llamada 2026-10-15 Masterplanning Preliminar]]
+Volver a [[00 - Léeme]] · Método: [[10 - Guía de revisión regenerativa]] · Notas de la llamada: [[14 - Llamada 2026-10-15 Masterplanning Preliminar]] · Presentación: [[2026-10-15 Masterplan preliminar (presentación de Martín)]]
 
 ## 🌱 En un respiro
 
 El primer enfoque de Martín es **el tipo de comienzo correcto para un proyecto regenerativo**: leyó los sistemas de agua del país y de la región antes que los lotes, dejó que el escurrimiento principal sea la columna verde (que por sí sola es ~10,2% del terreno, suficiente para el área verde legal), propuso avanzar por etapas desde el "cono" del río y dejó la parte alta, desértica, en lotes grandes sin definir. Lo que falta no son ideas sino **datos y números**: caudales pico, un derecho de agua, suelos, una línea de base de vegetación. El riesgo principal es el calendario: la presentación municipal congelaría líneas antes de que la tierra haya respondido.
+
+**Con la presentación (v0.2, §3):** la etapa 1 tiene ahora números (118 ha; ~21% en conservación y restauración; 59% en lotes agrícolas) y el sitio, cuatro zonas (A 35 ha · B 83,5 · C 414,7 · D 464,8 = 998 ha). Los datos de NASA dicen que la lluvia **no** llega concentrada en uno o dos meses, sino repartida con picos en abril y octubre, con tormentas de más de 100 mm en un día. Dos marcas nuevas: el camino principal de 30 m que acompaña al cañadón y se cuenta como área verde, y los lotes ribereños en la planicie.
 
 ## 1. Qué se propuso [^call]
 
@@ -59,9 +61,66 @@ Pasaron a [[13 - Preguntas abiertas y backlog]] §E "Preguntas para Martín", ju
 ### ⏭ Próximo paso chico
 Un **recorrido de un día** de Martín + Gus (+ un diseñador de permacultura) con una lista de control ([[templates/Observación de campo]]): puntos fotográficos en el escurrimiento, 3 calicatas, lista de plantas, marcar cárcavas y cabeceras, buscar marcas de inundación; después **una sesión de diseño de 2 horas** para acordar la proporción ecológica de la etapa 1.
 
+## 3. Lo que agrega la presentación (v0.2, 2026-10-20)
+
+Fuente: [[2026-10-15 Masterplan preliminar (presentación de Martín)]] (7 láminas). Lo que antes era [NC] por venir de la llamada ahora es [S] cuando está en una lámina.
+
+### 3.1 Datos nuevos o confirmados
+
+| Dato | Antes | Ahora |
+|---|---|---|
+| Superficie | 969 / 993,1 ha | **998 ha** en la lámina 5 y en la suma de las zonas: tercer número; sigue ❓ para el agrimensor (C6) |
+| Escurrimiento principal | ~5,8 km [NC] | **5.760 m** [S]; perfil de ~215 a ~390 m s. n. m. en ~9,9 km: **pendiente media ~1,8%**, más empinada en la barda (km 6–7) |
+| Zonas | "cono" de ~120 ha | **A** planicie aluvial con bosque ribereño, 35 ha ("Regeneration Project") · **B** barda baja, 83,5 ha · **C** barda alta, 414,7 ha · **D** cornisa y meseta, 464,8 ha. Etapa 1 = A + B = 118 ha |
+| Lluvia | ~200 mm, torrencial, "julio el mes más lluvioso" [NC] | NASA POWER: **~257 mm/año** repartidos en todo el año, con picos de media en **abril (~30 mm) y octubre (~35 mm)**; máximos en un día de **~100 mm en enero, abril y octubre** y **285,7 mm en julio** [S, reanálisis; verificar] |
+| Viento | del SO [NC] | **SO y OSO** dominantes, 5–9 m/s frecuentes, ráfagas de 12–15 m/s [S] |
+| Heladas | sin dato | Mínimas **bajo cero de mayo a septiembre** (hasta ~−7 °C), colas de helada en abril y octubre; máximas de hasta ~43 °C [S, reanálisis] |
+| Infraestructura existente | sin dato | **3 casas principales, 2 cabañas, caminos, energía, fibra y helipuerto (EANA)** [S] ❓ dónde están y de qué agua se abastecen |
+| Contexto regional del agua | relato de la llamada | Río Negro: **930 m³/s** (~29.000 hm³/año), embalses que guardan >1 año de caudal, solo **11–16%** extraído [S, AIC/CFI] |
+
+### 3.2 La etapa 1 en números (118 ha)
+
+| Uso | ha | % de 118 |
+|---|---|---|
+| Lotes agrícolas (5+; el 3D muestra 7 lotes de 4,6–21,5 ha) | 69,7 | 59% |
+| Área natural protegida + camino principal | 13,9 | 12% |
+| Restauración del bosque ribereño | 11,3 | 10% |
+| Lotes ribereños (etapas 0 y 1: 14 lotes) | 10,8 | 9% |
+| Lotes residenciales (24, de 1.200 a 5.800 m²; media ~3.000 m²) | 7,1 | 6% |
+| Sin asignar en la leyenda (camino de sirga de 20 m, calles, 1 lote de 1,13 ha) | ~5,2 | 4% |
+
+Cuenta del agente [criterio]: conservación + restauración = 25,2 ha ≈ **21%** de la etapa 1, **más del doble del 10% legal** y dentro del escalón 20–25% propuesto en [[08 - Rewilding y proporción ecológica]]. Pero incluye el camino (ver 🔴 abajo).
+
+### 3.3 Revisión
+
+**🟢 Fortalezas nuevas**
+1. **"Water is the asset. Regeneration is the strategy. The village is the outcome."** Es exactamente la tesis de [[17 - La regeneración como valor (las 300 razones)]], dicha por el arquitecto. ✅
+2. **La lógica de la presentación es fractal**: Andes → río → valle → sitio → etapa. Es la escala que pide Maurício ([[16 - Estrategia fractal (de la región a la primera hectárea)]]). ✅
+3. **Se pasa del mínimo legal**: 13,9 ha frente a 11,8 requeridas, más 11,3 ha de bosque ribereño. ✅
+4. **El camino de sirga respeta la cota de inundación**: es la primera mención de una cota en los planos. ✅
+5. **Las partes altas son macrolotes** (4 lotes de 50–168 ha y 4 de 61–130 ha): responde B4 y deja abierta la meseta. ✅
+6. **La Zona A ("Regeneration Project", 35 ha) tiene casi el tamaño de lo que da Fibonacci en 7 años (~33–34 ha)**: un lugar natural para la primera hectárea y su crecimiento. 🧪 [criterio]
+
+**🟡 A mejorar**
+1. **La lluvia no es "una sola temporada"**: con picos en abril y octubre, conviene tener las obras piloto listas **antes de marzo y antes de septiembre**, y diseñar la captación para muchos eventos chicos más algunos muy grandes. Corrige lo dicho en la llamada (julio) y en la reunión con Maurício (uno o dos meses). [S, reanálisis]
+2. **NASA POWER es una grilla de ~50 km**: sirve para el patrón, no para dimensionar obras. El máximo de 285,7 mm en un día de julio es muy alto para el Alto Valle y hay que contrastarlo con estaciones (INTA Alto Valle, SMN Cipolletti/Neuquén) antes de usarlo (C18). [verificar]
+3. **Los rompevientos van perpendiculares al SO**, es decir, en líneas NO–SE. El cañadón ya da reparo; los lotes residenciales necesitan cortinas propias del lado SO.
+4. **Heladas de mayo a septiembre, con riesgo en octubre**: confirma la duda sobre vid, olivo y almendro (C10) y pide medir las bolsas de frío en la planicie antes de fijar casas.
+5. **69,7 ha agrícolas en un lugar de ~250 mm** solo funcionan con riego: necesitan el derecho de agua del DPA (C2) y un balance de agua por lote. Sugerencia: que esos lotes sean el lugar donde se aplique el ritmo Fibonacci, en vez de venderse como agrícolas desde el día uno.
+6. **Las manchas rosadas** del mapa de la lámina 7 no tienen leyenda ❓ (¿pendientes?, ¿zonas planas?, ¿áreas de acumulación?).
+7. **Nombres**: la Zona A se llama *Regeneration Project* y las B–D *Nature-positive Project*. Para la regla 7, "nature-positive" es una afirmación que necesita línea de base y monitoreo ([[09 - Monitoreo y Libro C]]).
+8. **Erratas a corregir antes de mostrarla afuera**: "Analisis", "Subidivisión", "cumplis", "cociendo", "Corniza Meceta", "E02" repetido y el mismo texto de propiedad bajo los tres mapas.
+
+**🔴 Marcas nuevas**
+1. **El camino principal de 30 m acompaña al cañadón y se suma a la "área natural protegida"** (13,9 ha juntas). (a) Un camino a lo largo del cauce se corta en cada crecida y canaliza el agua (regla 1; [[Agua]]: los caminos son la primera obra de agua, por las crestas y con badenes). (b) Si el camino se descuenta, el área verde puede quedar **por debajo de las 11,8 ha** exigidas (1 km de camino de 30 m = 3 ha). **Pedir a Martín la superficie del camino por separado y su traza respecto del cauce.**
+2. **14 lotes ribereños en la planicie aluvial** (regla 2): el camino de sirga de 20 m cumple la norma, pero no reemplaza **las cotas de inundación y el retiro ribereño** que pide [[08 - Rewilding y proporción ecológica]]. No fijarlos sin las cotas (C1, B5).
+
+### 3.4 Preguntas nuevas para Martín
+Pasaron a [[13 - Preguntas abiertas y backlog]] §E (11 a 15).
+
 ## Fuentes y lógica usada
 
-- La revisión aplica [[10 - Guía de revisión regenerativa]] a lo dicho en la llamada; los números son de Martín (NC) hasta que la presentación esté en `sources/`.
+- La revisión aplica [[10 - Guía de revisión regenerativa]] a lo dicho en la llamada (§1–2) y a la presentación de Martín (§3), transcripta en `sources/martin/`. Las cuentas de §3.2 y las lecturas de los gráficos son del agente.
 
 [^call]: Llamada privada, Masterplanning Preliminar, 2026-10-15; ver [[14 - Llamada 2026-10-15 Masterplanning Preliminar]].
 [^tm05]: Transcripción de la reunión de equipo del 2026-10-05 (Gabriel sobre la franja del río), `../NS_platform/Documentation/transcripts/Octubre/Team meeting 05-10.md`.

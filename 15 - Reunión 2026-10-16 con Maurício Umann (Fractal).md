@@ -45,7 +45,7 @@ Maurício (fundador de **Fractal**, Portugal; profesor del PDC de Gus) leyó el 
 
 ### 1.4 Agua
 
-- La lluvia llega concentrada en uno o dos meses: "es mejor, porque se puede cosechar toda". [criterio de Maurício]
+- La lluvia llega concentrada en uno o dos meses: "es mejor, porque se puede cosechar toda". [criterio de Maurício] **Nota del agente (2026-10-20):** los datos de NASA POWER de la presentación de Martín muestran otra cosa: la lluvia está repartida en el año, con picos en abril y octubre y tormentas aisladas de ~100 mm en un día. La idea de cosechar sigue en pie, pero con obras para muchos eventos chicos y algunos muy grandes ([[07 - Revisión del masterplan 2026-10-15]] §3).
 - "Se pueden cosechar 2 millones de m³ de una vez." **Nota del agente:** 200 mm sobre 1.000 ha son ~2 millones de m³ de **lluvia caída**; lo **cosechable** es una fracción (coeficiente de escurrimiento, evaporación, infiltración). Ver la cuenta en [[04 - Agua en zonas áridas]]. [criterio del agente]
 - Si se construyen casas: sistemas de cosecha de techos y **masas de agua** en el paisaje para generar humedad; plantar alrededor y que el verde avance desde ahí.
 - Meta de largo plazo: **microclimas** y "cultivar lluvia". Inspirar a las tierras más cercanas a los Andes (más lluviosas) a recuperar el bosque con las mismas técnicas: "los bosques se expanden hacia los costados". [criterio de Maurício; a 20+ años]

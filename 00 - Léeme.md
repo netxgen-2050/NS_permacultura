@@ -51,7 +51,7 @@ Apuntá cualquier asistente de IA (Claude Code, Cursor, ChatGPT…) primero a `A
 | 18 | [[18 - Biblioteca del PDC]] | Lo aprendido de la biblioteca del curso, por tema, y el catálogo completo |
 | 19 | [[19 - Visión regional para BioPueblo (borrador para los dueños)]] | Borrador del documento para los dueños de BioPueblo |
 | — | `templates/` | Observación de campo, revisión de diseño, ficha de especie, ficha de intervención |
-| — | `sources/` | Presentaciones, exportaciones GIS, datos; `sources/biblioteca-pdc/` tiene el catálogo y las notas destiladas del PDC |
+| — | `sources/` | Presentaciones, exportaciones GIS, datos; `sources/biblioteca-pdc/` tiene el catálogo y las notas destiladas del PDC; `sources/martin/` tiene la presentación del masterplan preliminar (PDF + [[2026-10-15 Masterplan preliminar (presentación de Martín)\|transcripción]]) |
 | — | `private/` | Ignorada por git: transcripciones, contenido personal, portafolio confidencial de Fractal 🔒 |
 
 ## 3. Recorridos de lectura

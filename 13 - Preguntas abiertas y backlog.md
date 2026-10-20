@@ -1,7 +1,7 @@
 ---
 title: Preguntas abiertas y backlog de investigación
 created: 2026-10-15
-updated: 2026-10-16 (v0.3, con la reunión con Maurício Umann y la biblioteca del PDC)
+updated: 2026-10-20 (v0.4, con la presentación de Martín)
 status: vivo — responder en el lugar; cada respuesta habilita una iteración del agente
 ---
 
@@ -28,7 +28,7 @@ Lo que está decidido, lo que falta decidir, lo que hay que investigar, las resp
 | B1 | Meta y trinquete de la proporción ecológica ([[08 - Rewilding y proporción ecológica]]) | **Propuesta de Gus, a validar con el equipo**: arrancar en 10% y llegar a un tope de 50%, sin bajar nunca. Escalones sugeridos: 10% (etapa 1) → 20–25% → 33% → 50% | Equipo (Martín, Gus, Vagner) |
 | B2 | Prioridades de Lighthouse (pesos de propósito: regeneración ecológica · resiliencia comunitaria · accesibilidad económica · retorno · I+D · replicabilidad; RTMM Decisión A) | **A revisar con el equipo**, mediante un ejercicio de voto cuadrático en el Fogón de la plataforma: ver `../NS_platform/Documentation/Desarrollo/Ideas/2026-10-15 - Fogón - priorizar con voto cuadrático.md` | Equipo; Gus lo lleva con los agentes de la plataforma |
 | B3 | Qué profesional(es) de permacultura contratar para la etapa 1 | Comparar tres presupuestos con el TdR A ([[11 - Expertos y términos de referencia]]) | Gus + Franz |
-| B4 | ¿Presentar solo el cono, con la parte alta como macrolotes? | Sí | Martín |
+| B4 | ¿Presentar solo el cono, con la parte alta como macrolotes? | ✅ Así está en la presentación: etapa 1 de 118 ha y la parte alta en macrolotes de 50–168 ha | Martín |
 | B5 | ¿Lotes residenciales en la planicie aluvial o en el borde más alto? | Esperar las cotas de inundación + datos de heladas | Martín |
 | B6 | ¿Obras de agua piloto hechas a mano antes del próximo período de lluvias? | Sí, chicas y reversibles, con monitoreo | Gus + Martín |
 | B7 | ¿Adoptamos "diseñar las 120 ha, implementar 1 ha y crecer en Fibonacci"? ([[16 - Estrategia fractal (de la región a la primera hectárea)]]) | **Recomendación del agente: sí.** Baja el riesgo, enseña y da algo visible para vender | Equipo |
@@ -45,8 +45,8 @@ Lo que está decidido, lo que falta decidir, lo que hay que investigar, las resp
 | C2 | Camino del derecho de agua con el DPA; Código de Aguas de Río Negro | Riego, vivero, casas | Legal + Martín |
 | C3 | Estudio de suelos (3+ calicatas por unidad) | Zonas productivas | Laboratorio INTA |
 | C4 | Línea de base de vegetación/fauna; invasoras en el río | Libro C; paleta de especies | Botánico |
-| C5 | Lluvia mensual, heladas, viento (estación local) | ¿Mes más lluvioso? bolsas de helada | Martín / agente |
-| C6 | Límite: 969 vs 993 ha | Todos los cálculos de % | Agrimensor |
+| C5 | Lluvia mensual, heladas, viento (estación local) | 🟡 NASA POWER ya da el patrón (picos en abril y octubre; heladas de mayo a septiembre; viento SO): falta una estación local y las bolsas de frío | Martín / agente |
+| C6 | Límite: 969 vs 993 vs 998 ha (presentación) | Todos los cálculos de % | Agrimensor |
 | C7 | Historia del lugar (presencia mapuche/tehuelche, historia de la colonización, usos anteriores) | Diseño + relato + reclamos indígenas (NS_Tokenomics C10) | Gus / historiador |
 | C8 | Área natural protegida privada bajo la Ley M 2669 para la columna verde + el río | Anclar la proporción ecológica | Legal |
 | C9 | Datos del proyecto Al Baydha (lluvia, técnicas, resultados) | Referencia para la tesis | Agente |
@@ -73,7 +73,7 @@ Lo que está decidido, lo que falta decidir, lo que hay que investigar, las resp
 | D3 | Proporción ecológica | "Arrancar con un 10% para llegar a un 50% como máximo" | B1, doc 08, `AGENTS.md` regla 6 |
 | D4 | ¿Alguien habló con el DPA o con BioPueblo sobre derechos de agua o pozos? | No lo sabe; dejar las preguntas a Martín | §E |
 | D5 | Material del curso de permacultura (PDC) | **Pendiente** — Gus lo debe | §F |
-| D6 | Fuentes de Martín (presentación, capas GIS, canal del "Texano", video de Arabia Saudita) | **Pendiente** — Gus lo debe | §E, §F |
+| D6 | Fuentes de Martín (presentación, capas GIS, canal del "Texano", video de Arabia Saudita) | ✅ presentación (2026-10-19); el resto pendiente | §E, §F |
 | D7 | ¿Autoridad del agente? | Evaluar, desde su rol de diseñador experto en permacultura, lo que Gus le vaya pasando | A2 |
 | D8 | ¿Repo git? | Sí, privado, en la organización de NetxState; todavía no se comparte | A3; `git init` local hecho |
 
@@ -88,7 +88,7 @@ Preguntas todavía abiertas para Gus y el equipo:
 1. ¿Alguien habló con el **DPA** o con **BioPueblo** sobre derechos de agua, concesiones o pozos existentes?
 2. Caudales pico y cotas de inundación: ¿qué datos tiene el GIS (se mencionaron cotas históricas de inundación el 5-oct)?
 3. ¿Cuál es la superficie de la cuenca del punto central y cómo estimaste "más de la mitad del terreno"?
-4. ¿Podés compartir las **capas GIS** (MDE, líneas de escurrimiento, cuencas, cotas de inundación) y la **presentación** del 15-oct?
+4. ¿Podés compartir las **capas GIS** (MDE, líneas de escurrimiento, cuencas, cotas de inundación)? (La presentación ✅ ya está en `sources/martin/`.)
 
 **Terreno y campo**
 5. ¿Qué suelos y qué vegetación viste en el sitio? ¿Fotos por unidad de paisaje?
@@ -101,6 +101,13 @@ Preguntas todavía abiertas para Gus y el equipo:
 **Referencias**
 9. ¿Cuál es el canal de YouTube del "Texano"?
 10. ¿El video de Arabia Saudita que circuló es el proyecto Al Baydha?
+
+**Sobre la presentación** ([[07 - Revisión del masterplan 2026-10-15]] §3)
+11. El camino principal de 30 m: ¿por dónde va respecto del cauce, y cuántas hectáreas ocupa dentro de las 13,9 ha de "área natural protegida + camino"?
+12. ¿Qué cota de inundación usaste para el camino de sirga y los lotes ribereños? ¿Cuál es la fuente?
+13. ¿Qué representan las manchas rosadas del mapa de la lámina 7?
+14. ¿Dónde están las 3 casas, las 2 cabañas y el helipuerto, y de dónde sacan el agua?
+15. ¿Los 7 lotes de 4,6–21,5 ha son los "lotes de uso agrícola" de 69,7 ha? ¿Con qué agua se riegan?
 
 ## E2. Con Maurício Umann (reunión 2026-10-16)
 
@@ -117,11 +124,12 @@ Ver [[15 - Reunión 2026-10-16 con Maurício Umann (Fractal)]] §2.
 | # | Qué | Para qué |
 |---|---|---|
 | F1 | ~~Material del curso de permacultura~~ ✅ biblioteca del PDC compartida el 2026-10-16 → [[18 - Biblioteca del PDC]] | Afinar los docs 02, 03 y 10 |
-| F2 | Presentación de Martín y archivos CAD/GIS del cono (en `sources/`) | Actualizar los docs 01 y 07 con datos reales |
+| F2 | ~~Presentación de Martín~~ ✅ 2026-10-19 → `sources/martin/` · archivos CAD/GIS del cono, pendientes | Docs 01 y 07 actualizados con la presentación; faltan los GIS |
 | F3 | Canal del "Texano" y video de Arabia Saudita | Doc 04 §6 |
 
 ## Fuentes y lógica usada
 
 - 2026-10-16: B7–B11, C11–C15 y §E2 salen de la reunión con Maurício Umann.
+- 2026-10-20: B4, C5, C6, D6, F2 y las preguntas E11–E15 salen de la presentación de Martín.
 - Preguntas surgidas de los huecos de [[01 - Perfil del sitio (Lighthouse 7A)]] §8, de la revisión en [[07 - Revisión del masterplan 2026-10-15]] y del RTMM §16.
 - Respuestas de Gus al agente, 2026-10-15.

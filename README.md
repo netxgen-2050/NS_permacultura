@@ -37,7 +37,7 @@ Las decisiones son del equipo.
 | Agua en zonas áridas (~200 mm de lluvia por año) | `04` |
 | Ecología del Monte: especies nativas y hábitats | `05` |
 | Suelo y técnicas de revegetación | `06` |
-| Revisión del masterplan del 15-oct-2026 | `07`, `14` |
+| Masterplan preliminar de Martín (presentación, zonas, etapa 1, clima) y su revisión | `07`, `14`, `sources/martin/` |
 | Rewilding y proporción ecológica | `08` |
 | Monitoreo (el Libro C) | `09` |
 | Expertos a contratar y términos de referencia | `11` |

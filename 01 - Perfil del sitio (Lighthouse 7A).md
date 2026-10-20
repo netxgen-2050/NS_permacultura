@@ -20,13 +20,15 @@ Unas 1.000 ha en la **margen sur del Río Negro**, en Mainqué, Alto Valle: una 
 |---|---|---|
 | Nombre | Lighthouse VRN, "nuestro barrio" dentro de **BioPueblo** (~10.000 ha, ~12 km de costa sobre el Río Negro) | [S] [^ns15] |
 | Parcela | **Macrolote 7**; el lote **7A** es de NetX | [S] [^tok01] |
-| Superficie | **~969 ha** (investigación legal) vs **993,1 ha** (calculada del polígono del KMZ) vs "casi mil" incluyendo lotes chicos de Soluna (llamada) | ❓ conciliar con el agrimensor [^drs] [^kmz] [^call] |
+| Superficie | **~969 ha** (investigación legal) vs **993,1 ha** (calculada del polígono del KMZ) vs "casi mil" incluyendo lotes chicos de Soluna (llamada) | ❓ conciliar con el agrimensor [^drs] [^kmz] [^call]. La presentación de Martín dice **998 ha** (suma de las zonas A–D) [^mp] |
 | Recuadro (WGS84) | lon −67,326 … −67,295 · lat −39,160 … −39,107 (KMZ `Poly3D(1296)`) | [C] para la geometría del KMZ; [NC] como límite legal [^kmz] |
 | Titular | Parcela madre 05-7-880580 (matrícula 05-22352), Lavima S.A.; venta a BioPueblo en curso; DRS + fideicomiso propuestos | [S] [^tok01] |
 | Vecino | **Chacras de Soluna** (Parcela 5, ~110–128 ha, ~50–57 lotes, al NO, junto al río), a cargo de Diego y Etienne (BioPueblo) | [S] [^kmz] [^ns15] |
 | Norma urbanística | **Ordenanza 173/2026 de Mainqué** (abril de 2026) | [S] [^call] |
-| Largo del escurrimiento principal | ~5.800 m (borde de la meseta → desembocadura en la planicie aluvial) | [NC] Martín [^call] |
-| "Cono" de la etapa 1 | ~120 ha (35 + 83,5 ha) cerca del río y de Soluna | [NC] Martín [^call] |
+| Largo del escurrimiento principal | **5.760 m** (borde de la meseta → desembocadura en la planicie aluvial); perfil de ~215 a ~390 m s. n. m., pendiente media ~1,8% | [S] [^mp] |
+| Infraestructura existente | 3 casas principales, 2 cabañas, caminos, energía, fibra óptica, helipuerto autorizado por la EANA | [S] [^mp] ❓ ubicación y fuente de agua |
+| Etapa 1 ("cono") | **118 ha** = Zona A (planicie aluvial con bosque ribereño, 35 ha) + Zona B (barda baja, 83,5 ha) | [S] [^mp] |
+| Zonas siguientes | Zona C (barda alta, 414,7 ha) · Zona D (cornisa y meseta, 464,8 ha) | [S] [^mp] |
 
 ## 2. Unidades de paisaje (del río a la meseta)
 
@@ -45,11 +47,11 @@ Nota: Martín dijo que todos los lotes "miran al norte" [^call], lo que coincide
 
 | Variable | Qué tenemos | Marca |
 |---|---|---|
-| Lluvia | ~200 mm/año de promedio, en pocos eventos **torrenciales** que formaron los escurrimientos | [NC] Martín, datos NASA de 40 años [^call] |
-| Período más lluvioso | "Julio" según Martín; las climatologías regionales suelen mostrar picos en otoño y primavera | ❓ [verificar] serie mensual |
+| Lluvia | **~257 mm/año** (NASA POWER; las fuentes regionales dicen ~200), en eventos chicos y algunos **torrenciales**: máximos en un día de ~100 mm en enero, abril y octubre, y 285,7 mm en julio | [S] reanálisis en grilla [^mp]; el máximo de julio [verificar] con estaciones |
+| Período más lluvioso | **No hay una sola temporada**: picos de media en **abril (~30 mm) y octubre (~35 mm)**; agosto y septiembre son los más secos (~13–14 mm). Julio tiene el máximo diario, no el mayor promedio | [S] [^mp] |
 | Temperatura | Promedios estables pero gran amplitud día–noche (patrón desértico) | [NC] [^call] |
-| Heladas | Sin analizar todavía; el Alto Valle es conocido por las heladas tardías de primavera que dañan la fruta | ❓ [verificar] — clave para frutales/viñedos y para las "bolsas de frío" en las partes bajas |
-| Viento | Predominante del **SO** | [NC] datos NASA [^call] |
+| Heladas | Mínimas **bajo cero de mayo a septiembre** (hasta ~−7 °C en julio), con colas de helada en abril y octubre; máximas de hasta ~43 °C en enero | [S] reanálisis [^mp]; faltan las bolsas de frío locales [verificar] |
+| Viento | Dominante del **SO y OSO** (~12–14% del tiempo cada uno), 5–9 m/s frecuentes, ráfagas de 12–15 m/s → rompevientos en líneas NO–SE | [S] [^mp] |
 | Sol | Muy pocos días totalmente nublados | [NC] [^call] |
 | Evaporación | Sin dato; se espera muy alta (bastante más de 1.000 mm/año) | [verificar] |
 | ENSO | Se mencionó un "súper Niño" para este año; El Niño puede traer períodos más húmedos a partes de Argentina; falta ver el efecto local | ❓ [verificar] |
@@ -97,8 +99,9 @@ Sirven como piso, porque nuestro barrio no debería ser más laxo que el de al l
 ## Fuentes y lógica usada
 
 - Lógica: unidades de paisaje del río a la meseta, porque el agua y el suelo cambian a lo largo de ese gradiente.
-- Lo que dijo Martín queda como [NC] hasta que su presentación esté en `sources/`.
+- Lo que dijo Martín en la llamada queda como [NC]; lo que está en su presentación (`sources/martin/`) pasa a [S].
 
+[^mp]: Presentación de Martín, `sources/martin/2026-10-15 Masterplan preliminar (presentación de Martín).md` (PDF de 7 láminas; datos de clima de NASA POWER).
 [^call]: Llamada privada, Masterplanning Preliminar, 2026-10-15 (presentación de Martín); ver [[14 - Llamada 2026-10-15 Masterplanning Preliminar]].
 [^kmz]: `../NS_platform/Biopueblo V11.kmz` (documento llamado "Biopueblo V10"), polígono `Poly3D(1296)` = Macrolote 7; procesado en `../NS_platform/Documentation/datos/biopueblo-territorios.geojson` (macrolote-7 = 993,1 ha).
 [^drs]: `../NS_platform/Documentation/Investigacion — DRS, fideicomisos y tokenizacion (Lighthouse VRN) 2026-09-29.md` (~969 ha; §5 "El ancla regenerativa").

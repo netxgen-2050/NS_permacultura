@@ -17,7 +17,7 @@ Lighthouse tiene **poca lluvia (~200 mm/año) pero un río grande y una napa poc
 | | Agua del cielo (lluvia + escurrimiento) | Agua del río / de la napa |
 |---|---|---|
 | Dónde | Las 1.000 ha; concentrada en el escurrimiento principal (~5,8 km) y sus ramales | Parte baja: borde del río, planicie aluvial con napa poco profunda [^call] |
-| Cuánta | ~200 mm/año de promedio; concentrada en pocos eventos torrenciales [^call] [NC] | Mucha; limitada por el **permiso** (concesión del DPA de Río Negro) y por la energía de bombeo |
+| Cuánta | ~200–257 mm/año (NASA POWER: ~257), repartidos en el año con picos en abril y octubre, y algunos eventos de ~100 mm o más en un día ([[2026-10-15 Masterplan preliminar (presentación de Martín)]]) [S] | Mucha; limitada por el **permiso** (concesión del DPA de Río Negro) y por la energía de bombeo |
 | Legal | La lluvia sobre terreno propio en general se puede usar; **las obras dentro de cauces pueden necesitar permiso** [verificar] | Se necesita concesión / permiso [^call] [verificar] |
 | Uso | Regeneración de la columna verde; recarga de la napa; lagunas para fauna; complemento para árboles | Doméstico, riego de lotes productivos, vivero |
 | Tesis | 🧪 "Reverdecer el desierto" en 15 años | ✅ modelo probado del Alto Valle (oasis irrigado) |
@@ -54,7 +54,7 @@ Cuenta de servilleta (qué tiene que ser cierto, no un pronóstico): 1 mm de llu
 - **Salinidad**: el agua que se evapora en cuencas poco profundas puede concentrar sales; vigilar los suelos.
 - **Mosquitos y agua estancada** cerca de las casas.
 - **Legal**: las obras en un cauce o el uso de agua pública necesitan permiso (Código de Aguas de Río Negro / DPA) [verificar]; retiros por inundación según la Ord. 173 [^call].
-- **Momento**: las obras a mano tienen que estar hechas **antes** de las lluvias; Martín mencionó julio como el mes más lluvioso [^call] [NC — a chequear con datos mensuales; en el Alto Valle suele haber picos de lluvia en otoño y primavera [verificar]].
+- **Momento**: las obras a mano tienen que estar hechas **antes de los dos picos de lluvia**: antes de marzo (pico de abril) y antes de septiembre (pico de octubre). Corrige lo dicho en la llamada ("julio"): según NASA POWER, julio tiene el máximo diario registrado, no el mayor promedio [S, presentación de Martín].
 
 ## 5. Balance hídrico (plantilla para el modelo acotado de Lighthouse)
 
