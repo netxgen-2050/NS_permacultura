@@ -52,6 +52,10 @@ Respuesta gradual (Constitución, art. 8): dos períodos de deterioro → explic
 
 - Datos crudos en `sources/monitoreo/` (CSV, fotos por fecha) ❓ o en un drive compartido; los resúmenes, en este vault.
 - Más adelante: una capa de la plataforma por punto/transecta (modelo GeoJSON de `../lighthouse-platform`), con "sin dato" cuando falte.
+- 🧪 **Opcional, a futuro (agregado 2026-10-23): cada registro del Libro C como *atestación*.** La idea viene de la consultoría web3 del 23-oct [^web3]. Quien mide firma la lectura: punto, fecha, indicador, valor o "sin dato", método y foto. Un verificador (laboratorio de suelos de INTA, botánico, hidrólogo; ver [[11 - Expertos y términos de referencia]] §6) firma otra atestación que apunta a esa lectura y dice "revisado, conforme" o "revisado, con observaciones". El estándar candidato es EAS (Ethereum Attestation Service), empezando off-chain [criterio].
+  - **Para qué sirve:** cualquiera, incluido un inversor, puede revisar quién midió, quién verificó y cuándo, sin confiar en NetX. Es la prueba que pide [[17 - La regeneración como valor (las 300 razones)]] §2.3 contra el greenwashing, y le da a la invariante J9 (`../NS_Tokenomics/29`) un registro que no se puede editar después.
+  - **Límites:** **nunca datos personales on-chain** (Ley 25.326). Las personas se identifican por su rol o con un identificador; las fotos y los CSV quedan en `sources/monitoreo/` y se guarda solo su huella (hash). La atestación no reemplaza al método: un dato mal medido y firmado sigue estando mal medido. Si el registro legal y el libro difieren, manda el legal (`../NS_Tokenomics/29` J10).
+  - ❓ Cuándo: no antes de tener línea de base y verificadores con nombre.
 
 ## 4. Plantilla de balance hídrico (mensual, m³)
 
@@ -67,3 +71,4 @@ Respuesta gradual (Constitución, art. 8): dos períodos de deterioro → explic
 [^lfa]: D. Tongway y N. Hindley, *Landscape Function Analysis: Procedures for Monitoring and Assessing Landscapes*, CSIRO, 2004 [S].
 [^rtmm]: `../NS_Tokenomics/sources/NetX_Lighthouse_Regenerative_Territorial_Model_AI.md` §13.4.
 [^ns17]: `../NS_Tokenomics/17 - Lighthouse Constitution and Rights of Nature (draft).md` §2, §4.
+[^web3]: Llamada privada, consultoría web3, 2026-10-23; resumen en `../NS_platform/Documentation/reuniones/2026-10-23 - Consultoría web3 (filtrado plataforma).md` y `../NS_Tokenomics/07` §J.

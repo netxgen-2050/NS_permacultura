@@ -26,7 +26,10 @@ Unas 1.000 ha en la **margen sur del Río Negro**, en Mainqué, Alto Valle: una 
 | Vecino | **Chacras de Soluna** (Parcela 5, ~110–128 ha, ~50–57 lotes, al NO, junto al río), a cargo de Diego y Etienne (BioPueblo) | [S] [^kmz] [^ns15] |
 | Norma urbanística | **Ordenanza 173/2026 de Mainqué** (abril de 2026) | [S] [^call] |
 | Largo del escurrimiento principal | **5.760 m** (borde de la meseta → desembocadura en la planicie aluvial); perfil de ~215 a ~390 m s. n. m., pendiente media ~1,8% | [S] [^mp] |
-| Infraestructura existente | 3 casas principales, 2 cabañas, caminos, energía, fibra óptica, helipuerto autorizado por la EANA | [S] [^mp] ❓ ubicación y fuente de agua |
+| Infraestructura existente | 3 casas principales, 2 cabañas, caminos, energía, fibra óptica, helipuerto autorizado por la EANA; una vieja **pista de aterrizaje**; **acceso a agua del departamento provincial** | [S] [^mp]; [NC] [^c23] ❓ ubicación, y si el acceso al agua es una concesión vigente |
+| Línea de inundación | Cota del DPA **ya mensurada y escriturada**; debajo, nada residencial (solo agrícola o infraestructura, con permiso). MDE de 30 m: ~3 m de diferencia (cota 215 → 212); del lado de Lighthouse coincide casi con el pie de la barda; el codo del río erosiona la orilla | [NC] [^c23] — pedir el plano |
+| Corredor verde | ~100 m a cada lado del eje del escurrimiento (~200 m de ancho; ≈116 ha) | [NC] [^c23] |
+| Acceso vial | Camino costero compartido con los demás macrolotes; acceso propio previsto a la **Ruta 22** (la presentación decía **RP 7**) | ❓ [^c23] [^mp] |
 | Etapa 1 ("cono") | **118 ha** = Zona A (planicie aluvial con bosque ribereño, 35 ha) + Zona B (barda baja, 83,5 ha) | [S] [^mp] |
 | Zonas siguientes | Zona C (barda alta, 414,7 ha) · Zona D (cornisa y meseta, 464,8 ha) | [S] [^mp] |
 
@@ -101,6 +104,7 @@ Sirven como piso, porque nuestro barrio no debería ser más laxo que el de al l
 - Lógica: unidades de paisaje del río a la meseta, porque el agua y el suelo cambian a lo largo de ese gradiente.
 - Lo que dijo Martín en la llamada queda como [NC]; lo que está en su presentación (`sources/martin/`) pasa a [S].
 
+[^c23]: Llamada 2026-10-23 con Martín y Maurício; ver [[20 - Llamada 2026-10-23 con Martín y Maurício]].
 [^mp]: Presentación de Martín, `sources/martin/2026-10-15 Masterplan preliminar (presentación de Martín).md` (PDF de 7 láminas; datos de clima de NASA POWER).
 [^call]: Llamada privada, Masterplanning Preliminar, 2026-10-15 (presentación de Martín); ver [[14 - Llamada 2026-10-15 Masterplanning Preliminar]].
 [^kmz]: `../NS_platform/Biopueblo V11.kmz` (documento llamado "Biopueblo V10"), polígono `Poly3D(1296)` = Macrolote 7; procesado en `../NS_platform/Documentation/datos/biopueblo-territorios.geojson` (macrolote-7 = 993,1 ha).

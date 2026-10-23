@@ -1,7 +1,7 @@
 ---
 title: Preguntas abiertas y backlog de investigación
 created: 2026-10-15
-updated: 2026-10-20 (v0.4, con la presentación de Martín)
+updated: 2026-10-23 (v0.5, con la llamada con Martín y Maurício)
 status: vivo — responder en el lugar; cada respuesta habilita una iteración del agente
 ---
 
@@ -35,13 +35,15 @@ Lo que está decidido, lo que falta decidir, lo que hay que investigar, las resp
 | B8 | ¿Dónde va la primera hectárea? | Criterios en doc 16 §3; se decide en la visita al campo | Martín + Maurício + Gus |
 | B9 | ¿Contratamos a Maurício / Fractal? ¿Con qué alcance (120 ha, 1.000 ha o diseño regional de 10.000 ha con BioPueblo)? | Primer paso: visita al sitio y propuesta (TdR D, doc 11) | Gus + Franz |
 | B10 | ¿Ventas por cluster (~16 familias) que financian su regeneración + un aporte al ecosistema común? ([[17 - La regeneración como valor (las 300 razones)]]) | Tesis 🧪; validar números con Vagner; nunca antes de la aprobación municipal (regla 8) | Franz, Vagner, BioPueblo |
+| B12 | ¿Cuál es el **programa** de las 1.000 ha y del cono (qué usos, para quién, con qué propósito) antes de dibujar lotes? ([[20 - Llamada 2026-10-23 con Martín y Maurício]]) | Recomendación del agente: un círculo de sueños chico con Diego, Martín y Gus, y escribirlo antes de presentar la subdivisión | Gus + Martín + Diego |
+| B13 | ¿Dos velocidades: febrero con los 4 lotes de Soluna y un **concepto**, y las 1.000 ha con calma (~1 año de proyecto)? | **Recomendación del agente: sí** (doc 20 §5) | Franz + Martín + BioPueblo |
 | B11 | ¿Animales con manejo holístico? | Sí como experimento con control y monitoreo, empezando en la hectárea piloto (doc 16 §5) | Equipo + agrónomo |
 
 ## C. Backlog de investigación
 
 | # | Ítem | Por qué | Quién |
 |---|---|---|---|
-| C1 | Caudales pico y cotas de inundación del escurrimiento | Filtros 2 y 3 | Ingeniero |
+| C1 | Caudales pico y cotas de inundación del escurrimiento; **crecida de 100 años del río y migración del codo** | Filtros 2 y 3; lotes ribereños | Ingeniero |
 | C2 | Camino del derecho de agua con el DPA; Código de Aguas de Río Negro | Riego, vivero, casas | Legal + Martín |
 | C3 | Estudio de suelos (3+ calicatas por unidad) | Zonas productivas | Laboratorio INTA |
 | C4 | Línea de base de vegetación/fauna; invasoras en el río | Libro C; paleta de especies | Botánico |
@@ -55,7 +57,7 @@ Lo que está decidido, lo que falta decidir, lo que hay que investigar, las resp
 | C12 | Pastos y arbustos nativos que rebrotan con la lluvia y se sostienen secos | Manejo holístico (doc 16 §5) | Botánico / INTA |
 | C13 | Evidencia del pastoreo holístico en zonas de ~200 mm | Honestidad con lo árido | Agente |
 | C14 | Precio real de los lotes de BioPueblo/Soluna y costo de regenerar por lote | Modelo de las 300 razones (doc 17) | Vagner |
-| C15 | Relevamiento con drone (curvas cada 20–25 cm) | Base para todo el diseño | Martín / BioPueblo |
+| C15 | Relevamiento con drone y **LiDAR** (curvas cada 20–25 cm); hoy hay solo un MDE de 30 m | Base para todo el diseño | Martín / BioPueblo |
 | C16 | Producción de forraje por ambiente (cortar y pesar) y carga histórica del campo | Carga animal ([[Animales, pastoreo y ecología]]) | INTA / agrónomo |
 | C17 | Análisis de agua de la napa (sales disueltas) | Animales, riego, casas | Laboratorio |
 | C18 | Lluvia intensa de diseño de Mainqué (curvas intensidad-duración-frecuencia) | Número de curva, obras con recurrencia ≥100 años ([[Agua]]) | Hidrólogo |
@@ -63,6 +65,10 @@ Lo que está decidido, lo que falta decidir, lo que hay que investigar, las resp
 | C20 | ¿Suelos dispersivos o sódicos? (prueba de dispersión en campo) | Keyline sí/no | Laboratorio / visita |
 | C21 | Encaje legal entre sociocracia del cluster, asamblea de la propiedad horizontal y voto del Fogón | Gobernanza de clusters ([[Diseño social, gobernanza y biorregión]]) | Legal |
 | C22 | ¿Un desvío de escurrimiento en ladera necesita permiso del DPA? | Primera hectárea como área foco | Legal / DPA |
+| C23 | **Licencia social**: quiénes son los actores de la región y cómo miran el proyecto | Que la región acompañe y no trabe | Antropólogo / Gus |
+| C24 | ¿Firmar **boletos de compraventa** con aprobación preliminar cuenta como comercializar (regla 8)? ¿Qué se puede ofrecer en febrero? | Regla 8 y NS_Tokenomics | Legal |
+| C25 | ¿Qué sauces hay en la costa: criollo nativo (*Salix humboldtiana*) o exóticos? | No sacar nativos; reemplazar exóticos de a poco | Botánico / Diego |
+| C23 | ¿Los registros del Libro C se firman como atestaciones (quien mide + verificador)? ¿Cuándo, y quién le paga al verificador? (agregado 2026-10-23) | Libro C confiable para J9 y contra el greenwashing ([[09 - Monitoreo y Libro C]] §3, [[11 - Expertos y términos de referencia]] §6) | Gus / plataforma |
 
 ## D. Respuestas de Gus (2026-10-15)
 
@@ -109,6 +115,12 @@ Preguntas todavía abiertas para Gus y el equipo:
 14. ¿Dónde están las 3 casas, las 2 cabañas y el helipuerto, y de dónde sacan el agua?
 15. ¿Los 7 lotes de 4,6–21,5 ha son los "lotes de uso agrícola" de 69,7 ha? ¿Con qué agua se riegan?
 
+**Después de la llamada del 2026-10-23** ([[20 - Llamada 2026-10-23 con Martín y Maurício]])
+16. ¿Nos pasás el plano de la **cota de inundación escriturada** del DPA?
+17. El "acceso a agua del departamento provincial": ¿es una concesión vigente? ¿Para qué uso y qué caudal?
+18. ¿El acceso propio va a la Ruta 22 o a la RP 7?
+19. En el loteo del cono: superficie de cada pieza (producción, reserva fiscal, lotes, acceso público, desembocadura) y qué es el área rayada marrón.
+
 ## E2. Con Maurício Umann (reunión 2026-10-16)
 
 Ver [[15 - Reunión 2026-10-16 con Maurício Umann (Fractal)]] §2.
@@ -118,6 +130,7 @@ Ver [[15 - Reunión 2026-10-16 con Maurício Umann (Fractal)]] §2.
 3. ¿Se pueden mostrar sus portafolios a los dueños de BioPueblo, o solo un resumen?
 4. ¿Qué haría en la primera hectárea el primer año, concretamente?
 5. ¿Qué experiencia tiene con pastoreo holístico en climas de ~200 mm?
+6. (2026-10-23) ¿Cómo plantearía el programa del proyecto y el trabajo de licencia social en los primeros meses?
 
 ## F. Pendientes de Gus
 
@@ -131,5 +144,6 @@ Ver [[15 - Reunión 2026-10-16 con Maurício Umann (Fractal)]] §2.
 
 - 2026-10-16: B7–B11, C11–C15 y §E2 salen de la reunión con Maurício Umann.
 - 2026-10-20: B4, C5, C6, D6, F2 y las preguntas E11–E15 salen de la presentación de Martín.
+- 2026-10-23: B12, B13, C23–C25, cambios en C1 y C15, E16–E19 y E2.6 salen de la llamada con Martín y Maurício.
 - Preguntas surgidas de los huecos de [[01 - Perfil del sitio (Lighthouse 7A)]] §8, de la revisión en [[07 - Revisión del masterplan 2026-10-15]] y del RTMM §16.
 - Respuestas de Gus al agente, 2026-10-15.

@@ -50,6 +50,23 @@ En la llamada el equipo coincidió en que esto es "ciencia, no brainstorming": u
 - **Plazo orientativo**: ~2 años para las 10.000 ha [NC]. Para las 120 ha, mucho menos ❓.
 - **Entregable inmediato**: documento de visión para los dueños de BioPueblo + reunión.
 
+## 6. Rol transversal: verificador que firma (agregado 2026-10-23)
+
+Se suma a todos los TdR (A–D) y a los aportes del laboratorio de suelos de INTA y del vivero. Quien entrega una medición o una revisión la **firma como verificador**: una atestación que dice qué revisó, con qué método, cuándo y con qué resultado ("conforme" o "con observaciones"), apuntando al registro del Libro C que revisa ([[09 - Monitoreo y Libro C]] §3) [criterio].
+
+| Señal del Libro C | Verificador natural |
+|---|---|
+| Suelo (textura, salinidad, pH, carbono orgánico) | Laboratorio de suelos de INTA |
+| Cobertura, especies, invasoras | Botánico o ecólogo (INTA Alto Valle / UNComahue) |
+| Agua (escurrimiento, napa, calidad) | Hidrólogo (TdR B) |
+| Supervivencia de plantaciones | Vivero, con revisión por muestreo de un tercero |
+| Biodiversidad de ciencia ciudadana | Curaduría de iNaturalist / eBird, más revisión del botánico |
+
+- **Qué pide el TdR:** aceptar firmar sus entregables así, con una cuenta que la plataforma le da sin necesidad de saber de cripto, y declarar conflictos de interés (no verificar el trabajo propio).
+- **Qué no pide:** que el experto decida. La Voz de la Tierra marca y las personas deciden, como siempre.
+- ❓ Si el verificador cobra por firma o por entregable, y quién le paga (para que no lo pague el mismo equipo que verifica). Ver K7 en `../NS_Tokenomics/29` ("external verifier").
+- Fuente: llamada privada, consultoría web3, 2026-10-23 [NC]; detalle en `../NS_platform/Documentation/reuniones/2026-10-23 - Consultoría web3 (filtrado plataforma).md`.
+
 ## Fuentes y lógica usada
 
 - Candidatos y necesidades de la llamada del 2026-10-15 [^call]; estructura de los TdR [criterio].

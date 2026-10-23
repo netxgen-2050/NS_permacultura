@@ -44,6 +44,7 @@ Las decisiones son del equipo.
 | Glosario español-inglés | `12` |
 | Preguntas abiertas y backlog | `13` |
 | Diseño regional y estrategia fractal | `15`, `16`, `17` |
+| Llamada con Martín y Maurício: plazos, sitio y loteo del cono | `20` |
 | Biblioteca del curso de permacultura (PDC) | `18`, `sources/biblioteca-pdc/` |
 
 ### La biblioteca del PDC

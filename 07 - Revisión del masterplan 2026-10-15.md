@@ -1,7 +1,7 @@
 ---
 title: Revisión regenerativa del masterplan preliminar de Martín (2026-10-15)
 created: 2026-10-15
-status: v0.2 — llamada + presentación de Martín (PDF, 2026-10-20, §3); faltan los archivos CAD/GIS
+status: v0.3 — llamada + presentación de Martín (§3) + loteo de detalle del cono (2026-10-23, §4); faltan los archivos CAD/GIS
 reviewed: Martín Vaccarezza, "Masterplanning Preliminar", 2026-10-15
 ---
 
@@ -118,9 +118,33 @@ Cuenta del agente [criterio]: conservación + restauración = 25,2 ha ≈ **21%*
 ### 3.4 Preguntas nuevas para Martín
 Pasaron a [[13 - Preguntas abiertas y backlog]] §E (11 a 15).
 
+## 4. El loteo de detalle del cono (borrador, 2026-10-23)
+
+Fuente: captura compartida por Gus y explicación de Martín en [[20 - Llamada 2026-10-23 con Martín y Maurício]] §3. Es un borrador para conversar y no tiene cotas ni superficies por lote.
+
+![Loteo del cono](sources/martin/img/2026-10-23-loteo-cono-borrador.png)
+
+### 🟢 Fortalezas
+1. **La vivienda queda arriba de la línea de inundación** (L.EC / L.I), y debajo de la línea solo hay producción e invernaderos. Es lo que pedía §2 🟡3. ✅
+2. **El corredor verde de ~200 m** (100 m a cada lado del eje) es más generoso que en la presentación. ✅
+3. **Acceso público a la costa** como espacio comunitario y **reserva fiscal** pensada como servicio para el municipio: son la base de la **licencia social**. ✅
+4. **La desembocadura del cañadón se destina a cosechar lluvia y a restauración**, no a lotes. ✅
+5. **Las casas se orientan al norte** y se respetan los caminos heredados. ✅
+
+### 🟡 A mejorar
+1. **El programa es corto** (Maurício): son lotes más producción. Faltan los usos que se nombraron en la llamada (hub de investigación, voluntariado, vivero, glamping, mercado) y, sobre todo, **la primera hectárea** como área foco al pie de una subcuenca ([[16 - Estrategia fractal (de la región a la primera hectárea)]]). Sugerencia: marcar en este plano **dónde va la hectárea 1 y hacia dónde crece**.
+2. **El bloque residencial es una cuadrícula de dos filas** (21–24 lotes de 400–1.200 m², más densos que los 1.200–5.800 m² de la presentación). Faltan **cortinas rompevientos del lado SO**, un recorrido del agua de los techos y las calles hacia cuencas de árboles, y espacios comunes dentro del bloque. Probar una forma de **cluster** (~16 familias) alrededor de un común ([[17 - La regeneración como valor (las 300 razones)]]).
+3. **Calles que bajan hacia el río**: el camino N–S y la rotonda concentran escurrimiento hacia la costa. Hacen falta badenes y descargas a cuencas de infiltración ([[Agua]]).
+4. **Invernaderos en la planicie inundable**: están permitidos, pero necesitan anclaje y drenaje pensados para la crecida, y agua con concesión (C2).
+5. **Las manchas rosadas al sur** (¿lotes de etapas siguientes?) y el **área rayada marrón** no tienen leyenda ❓.
+
+### 🔴 Marcas
+1. **Lotes ribereños junto al codo del río**: el río erosiona ese codo y puede migrar. Se necesita **un retiro mayor que los 20 m del camino de sirga**, definido con la crecida de 100 años y un relevamiento fino (LiDAR), no con un MDE de 30 m (C1, C15).
+2. **Ninguna línea de este loteo debería presentarse al municipio** sin el plano de la cota de inundación escriturada, un estudio de suelos mínimo y el programa (§2 🔴1).
+
 ## Fuentes y lógica usada
 
-- La revisión aplica [[10 - Guía de revisión regenerativa]] a lo dicho en la llamada (§1–2) y a la presentación de Martín (§3), transcripta en `sources/martin/`. Las cuentas de §3.2 y las lecturas de los gráficos son del agente.
+- La revisión aplica [[10 - Guía de revisión regenerativa]] a lo dicho en la llamada (§1–2) a la presentación de Martín (§3) y al loteo del 2026-10-23 (§4), transcripta en `sources/martin/`. Las cuentas de §3.2 y las lecturas de los gráficos son del agente.
 
 [^call]: Llamada privada, Masterplanning Preliminar, 2026-10-15; ver [[14 - Llamada 2026-10-15 Masterplanning Preliminar]].
 [^tm05]: Transcripción de la reunión de equipo del 2026-10-05 (Gabriel sobre la franja del río), `../NS_platform/Documentation/transcripts/Octubre/Team meeting 05-10.md`.

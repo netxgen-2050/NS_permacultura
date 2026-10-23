@@ -8,7 +8,7 @@ status: notas depuradas; las cifras son de conversación [NC] salvo que se indiq
 
 # 15 · Reunión 2026-10-16 con Maurício Umann (Fractal)
 
-Volver a [[00 - Léeme]] · Estrategia que sale de acá: [[16 - Estrategia fractal (de la región a la primera hectárea)]] · Modelo de valor: [[17 - La regeneración como valor (las 300 razones)]]
+Volver a [[00 - Léeme]] · Estrategia que sale de acá: [[16 - Estrategia fractal (de la región a la primera hectárea)]] · Modelo de valor: [[17 - La regeneración como valor (las 300 razones)]] · Siguiente conversación, con Martín: [[20 - Llamada 2026-10-23 con Martín y Maurício]]
 
 ## 🌱 En un respiro
 
