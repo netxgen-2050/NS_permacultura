@@ -51,6 +51,7 @@ Apuntá cualquier asistente de IA (Claude Code, Cursor, ChatGPT…) primero a `A
 | 18 | [[18 - Biblioteca del PDC]] | Lo aprendido de la biblioteca del curso, por tema, y el catálogo completo |
 | 19 | [[19 - Visión regional para BioPueblo (borrador para los dueños)]] | Borrador del documento para los dueños de BioPueblo |
 | 20 | [[20 - Llamada 2026-10-23 con Martín y Maurício]] | Plazos legales, lectura del sitio, loteo del cono y la advertencia de no apurarse |
+| 21 | [[21 - Masterplan de permacultura v0.1 (alternativa)]] | Borrador del agente desde el relieve y el agua: columna verde, primera hectárea, clusters, zonas 0–5 |
 | — | `templates/` | Observación de campo, revisión de diseño, ficha de especie, ficha de intervención |
 | — | `sources/` | Presentaciones, exportaciones GIS, datos; `sources/biblioteca-pdc/` tiene el catálogo y las notas destiladas del PDC; `sources/martin/` tiene la presentación del masterplan preliminar (PDF + [[2026-10-15 Masterplan preliminar (presentación de Martín)\|transcripción]]) |
 | — | `private/` | Ignorada por git: transcripciones, contenido personal, portafolio confidencial de Fractal 🔒 |

@@ -45,6 +45,7 @@ Las decisiones son del equipo.
 | Preguntas abiertas y backlog | `13` |
 | Diseño regional y estrategia fractal | `15`, `16`, `17` |
 | Llamada con Martín y Maurício: plazos, sitio y loteo del cono | `20` |
+| **Masterplan de permacultura v0.1** (alternativa, en la plataforma) | `21`, `sources/masterplan-permacultura/` |
 | Biblioteca del curso de permacultura (PDC) | `18`, `sources/biblioteca-pdc/` |
 
 ### La biblioteca del PDC

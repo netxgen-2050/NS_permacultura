@@ -36,6 +36,7 @@ Lo que está decidido, lo que falta decidir, lo que hay que investigar, las resp
 | B9 | ¿Contratamos a Maurício / Fractal? ¿Con qué alcance (120 ha, 1.000 ha o diseño regional de 10.000 ha con BioPueblo)? | Primer paso: visita al sitio y propuesta (TdR D, doc 11) | Gus + Franz |
 | B10 | ¿Ventas por cluster (~16 familias) que financian su regeneración + un aporte al ecosistema común? ([[17 - La regeneración como valor (las 300 razones)]]) | Tesis 🧪; validar números con Vagner; nunca antes de la aprobación municipal (regla 8) | Franz, Vagner, BioPueblo |
 | B12 | ¿Cuál es el **programa** de las 1.000 ha y del cono (qué usos, para quién, con qué propósito) antes de dibujar lotes? ([[20 - Llamada 2026-10-23 con Martín y Maurício]]) | Recomendación del agente: un círculo de sueños chico con Diego, Martín y Gus, y escribirlo antes de presentar la subdivisión | Gus + Martín + Diego |
+| B14 | ¿Usamos el masterplan de permacultura v0.1 ([[21 - Masterplan de permacultura v0.1 (alternativa)]]) como base de conversación con Martín, Maurício y Diego? | Propuesta del agente; está en la plataforma como vista alternativa (PR #109) | Gus |
 | B13 | ¿Dos velocidades: febrero con los 4 lotes de Soluna y un **concepto**, y las 1.000 ha con calma (~1 año de proyecto)? | **Recomendación del agente: sí** (doc 20 §5) | Franz + Martín + BioPueblo |
 | B11 | ¿Animales con manejo holístico? | Sí como experimento con control y monitoreo, empezando en la hectárea piloto (doc 16 §5) | Equipo + agrónomo |
 
